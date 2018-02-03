@@ -1,5 +1,9 @@
 [
     {
+        "repository": "android_vendor_samsung_zeroltexx",
+        "target_path": "vendor/samsung/zeroltexx"
+    },
+    {
         "repository": "android_device_samsung_zero-common",
         "target_path": "device/samsung/zero-common"
     }
